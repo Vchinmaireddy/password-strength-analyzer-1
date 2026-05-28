@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "An interactive and secure tool to check password strength, receive security recommendations, analyze history, and generate highly secure passwords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
